@@ -13,5 +13,5 @@ def list_vpcs(project_id: str):
 
 
 if __name__ == "__main__":
-    project_id = "your-project-id"
+    project_id = "project-d6bb013c-47e4-497a-9f1"
     list_vpcs(project_id)
